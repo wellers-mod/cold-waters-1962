@@ -1,0 +1,9 @@
+[Unit Reference]
+ShipClass=Whiskey Twin Cylinder
+Description=Whiskey-class Twin Cylinder Diesel-Electric Cruise Missile Submarine (1962)
+
+History=Between 1958 and 1960, several Whiskey-class submarines were converted to carry guided missiles. These boats had two missile tubes behind the sail, and were known in the west as the Whiskey Twin Cylinder, and Project 644 boats by the Soviets.
+
+[Player Ship Instances]
+PlayerClassNames=,,,,,,,,,,,,,,,,,
+PlayerClassHullNumbers=S-187,S-188,S-189,S-190,S-191,S-48,S-80,S-355,S-356,S-357,S-358,S-359,S-360,S-361,S-362,S-363,S-364,S-365

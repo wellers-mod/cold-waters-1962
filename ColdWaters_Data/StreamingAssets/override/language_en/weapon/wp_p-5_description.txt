@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=P-5
+WeaponDescriptiveName=P-5 Missile
+WeaponDescription=Special: Universal\n\nThe P-5 "Pyatyorka", also known by the NATO codename SS-N-3C Shaddock, is a Cold War era turbojet-powered cruise missile of the Soviet Union, designed by the Chelomey design bureau. The missile entered service in 1959. Guidance system is universal and allows switch between ship-attack and land-attack mode. Mode can be switched in the weapon settings just before launch.

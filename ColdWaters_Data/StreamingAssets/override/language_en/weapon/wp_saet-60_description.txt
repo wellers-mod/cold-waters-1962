@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=SAET-60
+WeaponDescriptiveName=SAET-60 Torpedo
+WeaponDescription=Special: Anti-ship only.\n\nPassive acoustic homing anti-ship torpedo.

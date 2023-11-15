@@ -1,0 +1,17 @@
+Image=campaign/images/68 pact naval 1
+PlayerVessels=usn_62_ss_guppy_2a,usn_62_ss_guppy_3,usn_62_ss_barbel,usn_62_ssn_nautilus,usn_62_ssn_skipjack,usn_62_ssn_permit
+[COMMANDER NAMES]
+CommanderName=COMSUBLANT
+CommanderFleetName=CINCLANTFLT
+
+//Easy, Normal, Hard, Elite
+StartingPrestige=400,200,0,0
+LoadoutType=0
+[Prestige Cost]
+wp_62_ss_whiskey=0
+wp_62_ss_romeo=10
+wp_62_ss_foxtrot=20
+wp_62_ssg_juliet=40
+wp_62_ssg_whiskey=90
+wp_62_ssn_november=100
+wp_62_ssgn_echo2=120

@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=SET-53
+WeaponDescriptiveName=SET-53 ASW Torpedo
+WeaponDescription=The SET-53 is an early Cold War era heavyweight torpedo of Soviet origin. It is launched by both submarines and surface vessels in order to fight enemy submarines. The SET-53 was the first acoustic homing Soviet heavyweight torpedo for use against submarines.

@@ -1,0 +1,15 @@
+NextAction=event_intro_4
+Image=campaign/images/parade.jpg
+Photo=campaign/images/khrushchev_angry.jpg
+Music=audio/music/Cold Waters Campaign Victory
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>KHRUSHCHEV<n></b>STRIKES BACK
+Color=57,61,73,255
+Sentence1=Tensions are again rising between the East and West as Soviet Premier Khrushchev, in a letter to President Kennedy, stated that the blockade of Cuba "constitutes an act of aggression".
+Color=218,218,208,255
+Sentence2=<b>SOVIET FORCES MOBILISE<n></b> A Pentagon spokesman revealed that NATO was aware of a what amounted to a huge mobilization of Pact forces along the East German border partaking in what appeared to be a snap exercise.

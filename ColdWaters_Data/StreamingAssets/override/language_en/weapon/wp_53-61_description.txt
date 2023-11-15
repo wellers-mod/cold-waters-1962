@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=53-61
+WeaponDescriptiveName=53-61 Torpedo
+WeaponDescription=Special: Wake-homing\n\nAcoustic wake following homing torpedo based upon the 53-57 torpedo. Wake-homing torpedoes should be aimed to cross wake behind ship's stern. Surfaced submarines can also be hit with WH torpedoes.
