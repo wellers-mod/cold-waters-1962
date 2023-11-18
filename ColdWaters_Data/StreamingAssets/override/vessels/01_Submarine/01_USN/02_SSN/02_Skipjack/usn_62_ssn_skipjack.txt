@@ -12,8 +12,8 @@ HullNumbers=FALSE
 
 [Movement]
 SurfaceSpeed=15
-SubmergedSpeed=30
-TelegraphSpeeds=-5,0,5,10,15,20,30
+SubmergedSpeed=33
+TelegraphSpeeds=-5,0,5,10,15,20,33
 AccelerationRate=0.3
 DecelerationRate=0.08
 RudderTurnRate=1
@@ -31,7 +31,7 @@ EscapeDepth=600
 
 [Acoustics & Sensors]
 //SelfNoise=148
-SelfNoise=135
+SelfNoise=140
 ActiveSonarReflection=20
 ActiveSonarModel=usn_an_bqs_4
 PassiveSonarModel=usn_an_bqr_2
@@ -109,8 +109,17 @@ MeshPosition=0,0.1025,0.2238
 MeshBowPlanes=usn_ssn_skipjack_sailplanes
 MeshPosition=0,0,-0.5286
 MeshSternPlanes=usn_ssn_skipjack_sternplanes
+
+
+AssetBundle=bundles/vessels/usn_ss_barbel.unity3d
+ModelFile=assets/models/usn_ss_barbel.fbx
+Material=assets/materials/usn_ss_barbel.mat
+
 MeshPosition=0,0.0002,-0.5636
-MeshProp=usn_ssn_skipjack_prop
+MeshProp=usn_84_ss_barbel_propeller
+
+ModelFile=ships/usn_ssn_skipjack/usn_ssn_skipjack
+Material=ships/usn_ssn_skipjack/usn_ssn_skipjack_mat
 
 Material=ships/materials/usn_masts
 MeshPosition=0.005,0.075,0.217
