@@ -31,7 +31,7 @@ EscapeDepth=600
 
 [Acoustics & Sensors]
 //SelfNoise=142
-SelfNoise=125
+SelfNoise=130
 ActiveSonarReflection=20
 ActiveSonarModel=usn_an_bqq_2
 PassiveSonarModel=usn_an_bqq_2
@@ -91,6 +91,13 @@ FLOODING5=-128,59,-77,-32
 DamageControlPartyY=-28
 
 [Model]
+AssetBundle=bundles/vessels/usn_ss_barbel.unity3d
+ModelFile=assets/models/usn_ss_barbel.fbx
+Material=assets/materials/usn_ss_barbel.mat
+
+MeshPosition=0,0.0002,-0.6297
+MeshProp=usn_84_ss_barbel_propeller
+
 ModelFile=ships/usn_ssn_permit/usn_ssn_permit
 
 //Hull and Deck
@@ -110,8 +117,6 @@ MeshPosition=0,0.1078,0.2977
 MeshBowPlanes=usn_ssn_permit_sailplanes
 MeshPosition=0,0,-0.5812
 MeshSternPlanes=usn_ssn_permit_sternplanes
-MeshPosition=0,0.0002,-0.6297
-MeshProp=usn_ssn_permit_prop
 
 Material=ships/materials/usn_masts
 MeshPosition=0.000,0.024,0.26
