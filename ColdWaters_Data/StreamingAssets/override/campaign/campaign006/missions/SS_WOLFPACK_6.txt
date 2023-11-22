@@ -20,6 +20,6 @@ RequiresWeapon=
 NumberOfEnemyUnits=2-2,0-2
 CombatBehaviour=OFFENSIVE,OFFENSIVE
 EnemyUnitMissionCritical=TRUE,TRUE
-EnemyShipClasses=wp_ssn,wp_ssn
+EnemyShipClasses=wp_ssk,wp_ssk
 EventWin=SS_WOLFPACK_win
 EventFail=SS_WOLFPACK_fail
