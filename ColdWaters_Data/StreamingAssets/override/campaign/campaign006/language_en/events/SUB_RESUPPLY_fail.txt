@@ -1,5 +1,5 @@
 NextAction=MAP
-Image=campaign/images/68 pact submarine tender 1
+Image=campaign/images/unload.png
 Photo=campaign/images/photos/naval pact 3
 Music=audio/music/Cold Waters Campaign Loss
 Header=<DATE>

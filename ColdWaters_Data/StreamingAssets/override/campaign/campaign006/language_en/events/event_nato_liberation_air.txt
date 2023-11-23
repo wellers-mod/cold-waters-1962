@@ -1,5 +1,5 @@
 NextAction=MAP
-Image=campaign/images/nato air 1,campaign/images/nato air 2,campaign/images/nato air 3,campaign/images/nato air 4,campaign/images/nato air 5
+Image=campaign/images/phantom.png,campaign/images/Phantomair.png,campaign/images/Bucc.png,campaign/images/1968 Strike.png,campaign/images/F-106.png
 Photo=campaign/images/photos/air nato 1,campaign/images/photos/air nato 2,campaign/images/photos/air nato 3,campaign/images/photos/air nato 4,campaign/images/photos/air nato 5
 Music=audio/music/Cold Waters Campaign Victory
 Header=<DATE>

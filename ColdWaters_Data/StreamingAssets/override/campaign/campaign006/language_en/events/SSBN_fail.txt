@@ -1,5 +1,5 @@
 NextAction=MAP
-Image=campaign/images/ssbn_hit.jpg
+Image=campaign/images/george_washington.jpg
 Photo=campaign/images/photos/ssbn.jpg
 Music=audio/music/Cold Waters Campaign Loss
 Header=<DATE>

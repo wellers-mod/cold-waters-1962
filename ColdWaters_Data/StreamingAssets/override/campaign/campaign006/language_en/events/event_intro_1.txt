@@ -1,6 +1,6 @@
 NextAction=event_intro_2
 Image=campaign/images/u2.jpg
-Photo=campaign/images/cuba.jpg
+Photo=campaign/images/photos/cuba.jpg
 Music=audio/music/Cold Waters Campaign Victory
 Header=<DATE>
 ForwardDate=7,14

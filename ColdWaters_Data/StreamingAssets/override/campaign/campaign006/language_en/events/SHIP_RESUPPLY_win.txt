@@ -1,5 +1,5 @@
 NextAction=MAP
-Image=campaign/images/tankerhit.jpg,campaign/images/Connie_BG.jpg
+Image=campaign/images/tankerhit.jpg,campaign/images/Essex.png,campaign/images/Gearing.png
 Photo=campaign/images/photos/naval nato 3,campaign/images/photos/naval nato carrier 3
 Music=audio/music/Cold Waters Campaign Victory
 Header=<DATE>

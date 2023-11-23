@@ -1,6 +1,6 @@
 NextAction=event_intro_3
-Image=campaign/images/blockade.jpg
-Photo=campaign/images/kennedy.jpg
+Image=campaign/images/blockade.png
+Photo=campaign/images/photos/kennedy.jpg
 Music=audio/music/Cold Waters Campaign Victory
 Header=<DATE>
 ForwardDate=7,14

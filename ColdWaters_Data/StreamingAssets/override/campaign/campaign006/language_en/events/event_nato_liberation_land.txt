@@ -1,5 +1,5 @@
 NextAction=MAP
-Image=campaign/images/nato ground 4,campaign/images/nato ground 2,campaign/images/nato ground 3,campaign/images/nato ground 1,campaign/images/nato air 1,campaign/images/nato air 2,campaign/images/nato air 3,campaign/images/nato air 4,campaign/images/installation fighting,campaign/images/nato victory 1
+Image=campaign/images/Infantry landing.png,campaign/images/M113.png,campaign/images/patton.png
 Photo=campaign/images/photos/armor nato 1,campaign/images/photos/armor nato 4,campaign/images/photos/infantry nato 3
 Music=audio/music/Cold Waters Campaign Victory
 Header=<DATE>

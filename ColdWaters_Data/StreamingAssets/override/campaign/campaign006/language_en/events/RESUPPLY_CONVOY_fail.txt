@@ -1,5 +1,5 @@
 NextAction=MAP
-Image=campaign/images/pact reinforcements
+Image=campaign/images/unload.png
 Photo=campaign/images/photos/infantry pact 3,campaign/images/photos/infantry pact 4,campaign/images/photos/infantry pact 5
 Music=audio/music/Cold Waters Campaign Loss
 Header=<DATE>

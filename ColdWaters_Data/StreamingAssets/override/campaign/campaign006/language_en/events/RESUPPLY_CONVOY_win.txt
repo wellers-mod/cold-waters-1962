@@ -1,5 +1,5 @@
 NextAction=MAP
-Image=campaign/images/pact landing sunk
+Image=campaign/images/Convoy hit.png
 Photo=campaign/images/photos/naval nato 3,campaign/images/photos/594a.jpg,campaign/images/photos/naval nato sub 1
 Music=audio/music/Cold Waters Campaign Victory
 Header=<DATE>

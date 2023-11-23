@@ -1,5 +1,5 @@
 NextAction=MAP
-Image=campaign/images/pact air 1, campaign/images/pact air 2
+Image=campaign/images/MiG-21.png, campaign/images/SU-17.png
 Photo=campaign/images/photos/air pact drop 1,campaign/images/photos/air pact drop 2,campaign/images/photos/air pact helicopters 1
 Music=audio/music/Cold Waters Campaign Loss
 Header=<DATE>

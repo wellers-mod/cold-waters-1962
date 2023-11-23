@@ -1,5 +1,5 @@
 NextAction=MAP
-Image=campaign/images/mps1.jpg,campaign/images/637_Surf2.jpg,campaign/images/Convoy3.jpg
+Image=campaign/images/mps1.jpg,campaign/images/Convoy3.jpg
 Photo=campaign/images/photos/unload6.jpg,campaign/images/598_Surf.jpg,campaign/images/photos/port2.jpg
 Music=audio/music/Cold Waters Campaign Victory
 Header=<DATE>

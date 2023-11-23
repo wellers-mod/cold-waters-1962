@@ -1,5 +1,5 @@
 NextAction=MAP
-Image=campaign/images/nato naval air 1,campaign/images/nato naval air 2,campaign/images/CV_Air.jpg,campaign/images/Launch1.jpg
+Image=campaign/images/Midway.png
 Photo=campaign/images/photos/air nato 3,campaign/images/photos/air nato 6,campaign/images/photos/naval nato carrier 1,campaign/images/photos/naval nato carrier 3,campaign/images/photos/CAW.jpg,campaign/images/photos/FA18.jpg
 Music=audio/music/Cold Waters Campaign Victory
 Header=<DATE>

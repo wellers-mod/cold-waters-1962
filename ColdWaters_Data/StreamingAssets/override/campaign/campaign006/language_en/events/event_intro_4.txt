@@ -1,6 +1,6 @@
 NextAction=MAP
-Image=campaign/images/t62.jpg
-Photo=campaign/images/kennedy_podium.jpg
+Image=campaign/images/t62.png
+Photo=campaign/images/photos/kennedy_podium.jpg
 Music=audio/music/Cold Waters Campaign Victory
 Header=<DATE>
 ForwardDate=7,14
