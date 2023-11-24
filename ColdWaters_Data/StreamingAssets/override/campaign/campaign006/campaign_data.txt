@@ -364,6 +364,7 @@ Event=event_intro_1=START
 Event=event_intro_2
 Event=event_intro_3
 Event=event_intro_4
+Event=event_intro_5
 Event=event_pact_invasion_sea=ENEMY_INVASION_SEA
 Event=event_pact_invasion_land=ENEMY_INVASION_LAND
 Event=event_pact_invasion_air=ENEMY_INVASION_AIR
