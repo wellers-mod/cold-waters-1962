@@ -18,7 +18,7 @@ NONE
 BT
 0704
 [MISSION WIN]
-Excellent job, Commander! Believe me, no one wanted to send a nuke boat into those shallow waters, but we had no other options.  You and your crew performed superbly under very difficult circumstances.  
+Excellent job, Commander! Believe me, no one wanted to send a your boat into those shallow waters, but we had no other options.  You and your crew performed superbly under very difficult circumstances.  
 [MISSION FAIL]
 Commander, inability to meet the enemy submarine threat with determination will lengthen this war and put a lot of our colleagues in danger.  
 [MISSION MISSED]
