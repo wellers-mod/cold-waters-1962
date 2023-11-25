@@ -18,7 +18,7 @@ NONE
 BT
 0806
 [MISSION WIN]
-Congratulations on a job well done. Glad those Victors are no longer a threat.  
+Congratulations on a job well done. Glad those Novembers are no longer a threat.  
 [MISSION FAIL]
 Disappointing outcome. Expect better hunting next time.
 [MISSION MISSED]
