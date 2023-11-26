@@ -2,8 +2,8 @@ Designation=SSK
 ShipType=SUBMARINE
 PlayerHUD=hud/default_usn
 
-Length=81.68
-Beam=8.35
+Length=84
+Beam=8.2
 HullHeight=0.08
 Displacement=2270
 Crew=83
