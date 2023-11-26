@@ -426,6 +426,7 @@ Event=SS_WOLFPACK_fail
 Event=SSN_WOLFPACK_fail
 Event=SSN_WOLFPACK_Carrier_fail
 Event=SSBN_RUN_win
+Event=SSBN_RUN1_win
 Event=SSBN_RUN_fail
 Event=SSBN_win
 Event=SSBN_fail

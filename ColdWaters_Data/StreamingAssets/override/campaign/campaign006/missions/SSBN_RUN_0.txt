@@ -21,5 +21,5 @@ NumberOfEnemyUnits=1-1,1-2
 CombatBehaviour=DEFENSIVE,OFFENSIVE
 EnemyUnitMissionCritical=TRUE,FALSE
 EnemyShipClasses=wp_62_ssb_golf,wp_62_ss_foxtrot
-EventWin=SSBN_RUN_win
+EventWin=SSBN_RUN1_win
 EventFail=SSBN_RUN_fail
