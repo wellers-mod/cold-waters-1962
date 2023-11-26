@@ -6,6 +6,9 @@ Using the existing 1968 NATO campaign as a base, I have crafted different introd
 Requires at least DotMod v0.4a-2.
 
 ## New Vessels
+#### United States
+* Tang-class SSK
+
 #### Soviet Union
 * Whiskey-class "Twin Cylinder" SSG
 * Hotel II-class SSBN
