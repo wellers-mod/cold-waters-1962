@@ -1,0 +1,9 @@
+[Unit Reference]
+ShipClass=Halibut
+Designation=SSGN
+Description=Halibut-class Nuclear Cruise Missile Submarine (1962)
+History=USS Halibut, a unique nuclear-powered guided missile submarine-turned-special operations platform, later redesignated as an attack submarine SSN-587, was the second ship of the United States Navy to be named after the halibut.
+
+[Player Ship Instances]
+PlayerClassNames=Halibut
+PlayerClassHullNumbers=SSGN-587

@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=Regulus
+WeaponDescriptiveName=Regulus Missile
+WeaponDescription=Special: Universal\n\nThe SSM-N-8A Regulus or the Regulus I was a United States Navy-developed ship-and-submarine-launched, nuclear-capable turbojet-powered second generation cruise missile, deployed from 1955 to 1964. Its development was an outgrowth of U.S. Navy tests conducted with the German V-1 missile at Naval Air Station Point Mugu in California.

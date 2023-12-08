@@ -8,12 +8,17 @@ Requires at least DotMod v0.4a-2.
 ## New Vessels
 #### United States
 * Tang-class SSK
+* Seawolf-class SSN
+* Halibut-class SSGN
 
 #### Soviet Union
 * Whiskey-class "Twin Cylinder" SSG
 * Hotel II-class SSBN
 
 ## New Weapons
+#### United States
+* SSM-N-8 Regulus Missile
+
 #### Soviet Union
 * 53-61 Torpedo
 * SAET-60 Torpedo
