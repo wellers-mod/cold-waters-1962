@@ -1,5 +1,5 @@
 NextAction=MAP
-Image=campaign/images/nato convoy,campaign/images/585_Surf.jpg,campaign/images/convoy2.jpg
+Image=campaign/images/skipjack.jpg,campaign/images/Nautilus.png,campaign/images/585_Surf.jpg,campaign/images/tang.jpg
 Photo=campaign/images/photos/cargo 1,campaign/images/photos/594a.jpg, campaign/images/photos/unload1.jpg
 Music=audio/music/Cold Waters Campaign Victory
 Header=<DATE>

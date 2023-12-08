@@ -1,5 +1,5 @@
 NextAction=MAP
-Image=campaign/images/donhit.jpg,campaign/images/Gearing.png
+Image=campaign/images/donhit.jpg,campaign/images/Gearing.png,campaign/images/Long Beach.png
 Photo=campaign/images/photos/naval nato 2,campaign/images/photos/naval nato carrier 4,campaign/images/photos/naval nato carrier 1
 Music=audio/music/Cold Waters Campaign Victory
 Header=<DATE>
