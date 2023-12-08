@@ -1,5 +1,5 @@
 Image=campaign/images/skate.png
-PlayerVessels=usn_62_ss_guppy_2a,usn_62_ss_guppy_3,usn_62_ss_tang,usn_62_ss_barbel,usn_62_ssn_nautilus,usn_62_ssn_skipjack,usn_62_ssn_permit
+PlayerVessels=usn_62_ss_guppy_2a,usn_62_ss_guppy_3,usn_62_ss_tang,usn_62_ss_barbel,usn_62_ssn_nautilus,usn_62_ssn_skipjack,usn_61_ssn_thresher,usn_62_ssn_thresher
 [COMMANDER NAMES]
 CommanderName=COMSUBLANT
 CommanderFleetName=CINCLANTFLT
