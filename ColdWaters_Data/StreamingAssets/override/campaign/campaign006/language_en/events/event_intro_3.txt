@@ -1,5 +1,5 @@
 NextAction=event_intro_4
-Image=campaign/images/parade.jpg
+Image=campaign/images/tanks_exercise.png
 Photo=campaign/images/photos/khrushchev_angry.jpg
 Music=audio/music/Cold Waters Campaign Victory
 Header=<DATE>

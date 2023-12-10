@@ -1,5 +1,5 @@
 NextAction=MAP
-Image=campaign/images/t62.png
+Image=campaign/images/tanks.png
 Photo=campaign/images/photos/kennedy_podium.jpg
 Music=audio/music/Cold Waters Campaign Victory
 Header=<DATE>
