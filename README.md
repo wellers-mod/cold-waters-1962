@@ -29,7 +29,7 @@ Requires at least DotMod v0.4a-2.
 1) Ensure you are starting with a fresh install of Cold Waters and DotMod v0.4a-2.
 2) Download the latest version of the mod from [Releases](https://github.com/wellers/cold-waters-1962/releases)
 3) If you use JSGME with Cold Waters, unzipped the contents of the downloaded zip into to the "MODS" folder - this usually resides under your Cold Waters installation directory.
-4) Open JSGME. The mode should appear under Available mods. 
+4) Open JSGME. The addon should appear under Available Mods. 
 5) Activate the mod.
    
 _Note:_ if you don't want to install the mod using JSGME, you can just copy the mod's "ColdWaters_Data" folder into your Cold Waters installation directory - the content matches the folder structure.
