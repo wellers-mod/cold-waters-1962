@@ -107,6 +107,7 @@ MeshMast=usn_ssn_skipjack_radar_mast
 
 ModelFile=ships/wp_ss_whiskey/wp_ss_whiskey
 Material=ships/wp_ss_whiskey/wp_ss_whiskey_mat
+MaterialTextures=vessels/textures/wp_ss_whiskey_tx.png,ships/wp_ss_whiskey/wp_ss_whiskey_spec,ships/wp_ss_whiskey/wp_ss_whiskey_nm
 MeshScale=1.42,1.42,1.42
 MeshPosition=-0.035714,-0.025911,-0.61115
 MeshProp=wp_ss_whiskey_prop_l
