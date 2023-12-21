@@ -2,7 +2,7 @@
 MapImage=campaign/maps/norwegian_sea_chart_1990_small.png
 MapNavigationData=campaign/images/maps/norwegian_sea_navmap
 MapElevationData=campaign/images/maps/norwegian_sea_bathymetry
-WorldObjectsData=campaign/maps/norwegian_sea_world_objects
+WorldObjectsData=campaign/maps/norwegian_sea_world_objects_68
 VesselsAndTraffic=campaign/maps/norwegian_sea_traffic_62
 
 MapHeightInNM=1800
