@@ -2,8 +2,6 @@ WeaponObjectReference=usn_regulus
 WeaponType=MISSILE
 *
 Warhead=1000
-SensorRange=3000
-SensorAngles=30,60
 *
 MissileGunVulnerability=0.7
 MissileChaffVulnerability=0.7
@@ -19,10 +17,9 @@ WeaponSpeed=40,670
 TurnRate=30
 MaxPitchAngle=20
 *
-HomeSettings=SHIP,LAND
-
-AttackSettings=WIDE
-DepthSettings=SKIM
+HomeSettings=LAND
+AttackSettings=FALSE
+DepthSettings=FALSE
 *
 WeaponNoiseValues=190,190
 WeaponSprite=hud/sprites/usn_regulus_sprite.png
@@ -36,10 +33,11 @@ Material=weapons/assets/usn_tasm_mat
 MaterialTextures=assets/textures/weapon_usn_regulus.png
 MeshPosition=0,0,0
 MeshWeapon=weapon_usn_regulus
+MeshMissileBooster=weapon_usn_regulus_boosters
+MeshPosition=0,-0.0055,-0.057
 CavitationParticle=weapons/assets/torpedo_cavitation_particle
-MeshPosition=0,0,-0.057
 MissileTrailParticle=weapons/assets/usn_ugm84_missiletrail
-MeshPosition=0,0,-0.057
+MeshPosition=0,-0.0055,-0.057
 BoosterParticle=weapons/assets/usn_tasm_boosterrelease
 AudioSource=MissileLaunch
 AudioClip=audio/missile/ssgn-booster2.ogg
