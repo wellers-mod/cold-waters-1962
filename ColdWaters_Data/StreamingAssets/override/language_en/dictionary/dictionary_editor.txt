@@ -1,6 +1,7 @@
 ﻿[MAP NAMES]
 MapName=North Atlantic All
 MapName=North Atlantic 1962 NATO
+MapName=North Atlantic 1962 Soviet
 MapName=North Atlantic 1968 NATO
 MapName=North Atlantic 1968 Soviet
 MapName=North Atlantic 1984 NATO
