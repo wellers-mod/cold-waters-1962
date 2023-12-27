@@ -1,0 +1,9 @@
+[Unit Reference]
+ShipClass=Skate
+Designation=SSN
+Description=Skate-class Nuclear Attack Submarine (1962)
+History=The Skate-class submarines were the United States Navy's first production run of nuclear-powered submarines. They were an evolution of the Tang class in everything except their propulsion plants, which were based on the operational prototype USS Nautilus. The four Skate class boats re-introduced stern torpedo tubes. Although among the smallest nuclear-powered attack submarines ever built, the Skate class served for many years, with the last being decommissioned in 1989.
+
+[Player Ship Instances]
+PlayerClassNames=Skate,Swordfish,Sargo,Seadragon
+PlayerClassHullNumbers=SSN-578,SSN-579,SSN-583,SSN-584
