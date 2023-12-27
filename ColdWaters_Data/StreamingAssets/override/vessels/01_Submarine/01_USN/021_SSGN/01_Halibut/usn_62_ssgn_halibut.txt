@@ -49,8 +49,8 @@ TubeConfig=1,1,1,1,1,1,1
 TorpedoTubeSize=533,533,533,533,533,533,533
 TubeReloadTime=45
 
-VLSTorpedoTypes=usn_regulus
-VLSTorpedoNumbers=5
+VLSTorpedoTypes=usn_regulus, usn_regulus_ii
+VLSTorpedoNumbers=2,2
 VLSMaxDepthToFire=6
 VLSMaxSpeedToFire=1
 

@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=Regulus II
+WeaponDescriptiveName=Regulus II Missile
+WeaponDescription=The SSM-N-9 Regulus II cruise missile is a supersonic guided missile armed with a nuclear warhead, intended for launching from surface ships and submarines of the U.S. Navy.

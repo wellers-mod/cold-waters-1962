@@ -1,0 +1,8 @@
+[Unit Reference]
+ShipClass=Grayback
+Description=Grayback-class Cruise Missile Submarine (1962)
+History=USS Growler (SSG-577) was an early attempt by the U.S. Navy to field a cruise missile submarine that would provide a nuclear deterrent using its second series of cruise missiles. Built to deliver the Regulus I cruise missile, Growler was the second and final submarine of the Grayback class, fourth ship of the United States Navy to be named after the growler. Since Regulus I and Regulus II programs had problems, Growler and Grayback were the only two submarines built in this class as instead, the U.S. Navy veered its nuclear deterrence efforts into submarine launched ballistic missiles (SLBMs)—the Polaris missile program.
+
+[Player Ship Instances]
+PlayerClassHullNumbers=SSG-577
+PlayerClassNames=Growler
