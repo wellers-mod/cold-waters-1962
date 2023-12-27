@@ -8,7 +8,9 @@ Requires at least DotMod v0.4a-2.
 ## New Vessels
 #### United States
 * Tang-class SSK
+* Grayback-class SSG
 * Seawolf-class SSN
+* Skate-class SSN
 * Halibut-class SSGN
 
 #### Soviet Union
@@ -18,6 +20,7 @@ Requires at least DotMod v0.4a-2.
 ## New Weapons
 #### United States
 * SSM-N-8 Regulus Missile
+* SSM-N-9 Regulus II Missile
 
 #### Soviet Union
 * 53-61 Torpedo
