@@ -95,18 +95,16 @@ LabelPosition=190.8,28
 REACTOR=MID
 
 [Model]
-AssetBundle=bundles/vessels/usn_dd_gearing.unity3d
-ModelFile=assets/models/usn_dd_gearing.fbx
-Material=assets/materials/usn_dd_gearing.mat
+ModelFile=ships/wp_ssb_golf/wp_ssb_golf
+Material=ships/wp_ssb_golf/wp_ssb_golf_mat
+MaterialTextures=vessels/textures/wp_ssb_golf_tx.png,ships/wp_ssb_golf/wp_ssb_golf_spec,ships/wp_ssb_golf/wp_ssb_golf_nm
 
-MeshScale=0.68,0.68,0.3
+MeshScale=1.1,1.1,1
 MeshPosition=-0.042419,-0.044432,-0.66984
-MeshRotation=-3,0,0
-MeshScale=0.68,0.68,0.3
-MeshProp=usn_dd_gearing_prop_l
+MeshProp=wp_ssb_golf_prop_l
 
 MeshPosition=0.042419,-0.044432,-0.66984
-MeshProp=usn_dd_gearing_prop_r
+MeshProp=wp_ssb_golf_prop_r
 
 MeshScale=1,1,1
 ModelFile=ships/usn_ssn_skipjack/usn_ssn_skipjack

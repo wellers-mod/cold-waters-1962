@@ -105,14 +105,15 @@ MeshPosition=0,0.04,0.1445
 MastHeight=0.065
 MeshMast=usn_ssn_skipjack_radar_mast
 
-ModelFile=ships/wp_ss_whiskey/wp_ss_whiskey
-Material=ships/wp_ss_whiskey/wp_ss_whiskey_mat
-MeshScale=1.2,1.2,1.2
+ModelFile=ships/wp_ssb_golf/wp_ssb_golf
+Material=ships/wp_ssb_golf/wp_ssb_golf_mat
+MaterialTextures=vessels/textures/wp_ssb_golf_tx.png,ships/wp_ssb_golf/wp_ssb_golf_spec,ships/wp_ssb_golf/wp_ssb_golf_nm
+
+MeshScale=1.1,1.1,1
 MeshPosition=-0.0360,-0.025676,-0.4686
-MeshProp=wp_ss_whiskey_prop_l
-MeshScale=1.2,1.2,1.2
+MeshProp=wp_ssb_golf_prop_l
 MeshPosition=0.0360,-0.025676,-0.4686
-MeshProp=wp_ss_whiskey_prop_r
+MeshProp=wp_ssb_golf_prop_r
 MeshScale=1,1,1
 
 AssetBundle=bundles/vessels/usn_ss_guppy_tench.unity3d
