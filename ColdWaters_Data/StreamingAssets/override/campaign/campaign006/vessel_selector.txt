@@ -1,5 +1,6 @@
 [Inventory]
 wp_62_ss_whiskey=83
+wp_ss_quebec=30
 wp_62_ss_zulu=14
 wp_62_ss_romeo=12
 wp_62_ss_foxtrot=26
@@ -31,7 +32,8 @@ wp_vtr_yuniy_partizan=24
 wp_ms_leninskiy_komsomol=25
 
 [Selectors]
-wp_all_subs=wp_62_ss_whiskey,wp_62_ss_zulu,wp_62_ss_romeo,wp_62_ss_foxtrot,wp_62_ssn_november
+wp_all_subs=wp_ss_quebec,wp_62_ss_whiskey,wp_62_ss_zulu,wp_62_ss_romeo,wp_62_ss_foxtrot,wp_62_ssn_november
+wp_coastal_subs=wp_ss_quebec
 wp_oldest_subs=wp_62_ss_whiskey,wp_62_ss_zulu
 wp_newest_subs=wp_62_ssn_november,wp_62_ss_foxtrot,wp_62_ss_romeo
 wp_ssk=wp_62_ss_whiskey,wp_62_ss_zulu,wp_62_ss_romeo,wp_62_ss_foxtrot

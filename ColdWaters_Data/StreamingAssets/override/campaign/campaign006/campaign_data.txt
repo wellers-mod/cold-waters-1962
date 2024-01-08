@@ -338,8 +338,10 @@ Mission=SSBN_PATROL_3
 [NON-PLAYER MISSIONS]
 Non-PlayerMissionTypes=SSN_SURGE,SS_SURGE,SS_PATROL,SSN_PATROL,ASW_PATROL
 //Sum of frequencies must equal 1
-Non-PlayerMissionFrequency=0.2,0.2,0.1,0.1,0.4
+Non-PlayerMissionFrequency=0.15,0.2,0.15,0.1,0.4
 Non-PlayerMission=SS_PATROL_0
+Non-PlayerMission=SS_PATROL_1
+Non-PlayerMission=SS_PATROL_2
 Non-PlayerMission=SSN_PATROL_0
 Non-PlayerMission=ASW_PATROL_0
 Non-PlayerMission=ASW_PATROL_1

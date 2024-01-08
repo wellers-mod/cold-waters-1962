@@ -5,10 +5,10 @@ MapFromCampaign=North Atlantic
 MapElevationData=oparea_norwegiansea_bathymetry
 
 //Enemy Ships
-NumberOfEnemyUnits=1-1,1-1,1-1,1-1,1-1,1-1,1-1,1-1
-CombatBehaviour=OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,DEFENSIVE,DEFENSIVE,DEFENSIVE
-EnemyUnitMissionCritical=FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
-EnemyShipClasses=wp_small_escorts,wp_large_escorts,wp_cargo,wp_cargo|civ_all_trawlers,civ_all_trawlers,wp_ssb|wp_ssbn,wp_ssb|wp_asuw_cruisers,wp_ssbn|wp_sub_unrep
+NumberOfEnemyUnits=1-1,1-1,1-1,1-1,1-1,1-1,1-1,1-1,1-3
+CombatBehaviour=OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,OFFENSIVE,DEFENSIVE,DEFENSIVE,DEFENSIVE,OFFENSIVE
+EnemyUnitMissionCritical=FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+EnemyShipClasses=wp_small_escorts,wp_large_escorts,wp_cargo,wp_cargo|civ_all_trawlers,civ_all_trawlers,wp_ssb|wp_ssbn,wp_ssb|wp_asuw_cruisers,wp_ssbn|wp_sub_unrep,wp_coastal_subs
 FormationCruiseSpeed=8
 
 //Ship positions and headings, otherwise build into a formation

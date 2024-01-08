@@ -39,7 +39,7 @@ MapHemisphere=North
 MapDefaultYear=1962
 MapDefaultCoords=2030,1187
 PlayerCommand=COM NORTHERN FLEET|GLAVCOM VMF
-PlayerVessels=wp_62_ss_whiskey,wp_62_ss_zulu,wp_62_ss_romeo,wp_62_ss_foxtrot,wp_62_ssg_whiskey,wp_62_ssg_juliet,wp_62_ssgn_echo2,wp_62_ssb_golf,wp_62_ssn_november,wp_62_ssbn_hotel
+PlayerVessels=wp_ss_quebec,wp_62_ss_whiskey,wp_62_ss_zulu,wp_62_ss_romeo,wp_62_ss_foxtrot,wp_62_ssg_whiskey,wp_62_ssg_juliet,wp_62_ssgn_echo2,wp_62_ssb_golf,wp_62_ssn_november,wp_62_ssbn_hotel
 HelicopterTypes=usn_qh-50,usn_sh-2f_68,uk_wessex_has3_68
 AircraftTypes=usn_p3c_68,uk_shackleton_mr2
 

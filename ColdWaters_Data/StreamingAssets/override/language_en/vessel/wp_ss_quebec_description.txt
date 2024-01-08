@@ -1,0 +1,8 @@
+[Unit Reference]
+ShipClass=Quebec
+Description=Quebec-class Diesel-Electric Submarine
+History=Quebec-class submarines were fitted with two regular diesel engines and a third, closed-cycle diesel engine, which used liquid oxygen to provide air-independent propulsion while the submarine was submerged. The Quebec-class was plagued with problems caused by liquid oxygen evaporation. Their endurance was limited to 14 days due to continuous evaporation of the oxygen and lack of a re-liquefaction system, and the propulsion system led to several serious incidents.
+
+[Player Ship Instances]
+PlayerClassHullNumbers=M-256
+PlayerClassNames=

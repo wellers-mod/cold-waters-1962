@@ -14,6 +14,7 @@ Requires at least DotMod v0.4a-2.
 * Halibut-class SSGN
 
 #### Soviet Union
+* Quebec-class SS
 * Whiskey-class "Twin Cylinder" SSG
 * Hotel II-class SSBN
 
