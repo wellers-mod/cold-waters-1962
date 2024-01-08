@@ -20,6 +20,6 @@ RequiresWeapon=
 NumberOfEnemyUnits=0-1,0-1,2-2,2-4,1-1,0-1
 CombatBehaviour=DEFENSIVE,OFFENSIVE,OFFENSIVE,DEFENSIVE,DEFENSIVE,DEFENSIVE
 EnemyUnitMissionCritical=FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
-EnemyShipClasses=wp_68_kr_sverdlov_ai,wp_small_escorts,wp_large_escorts,wp_landing,wp_cargo,wp_68_kr_sverdlov_ai
+EnemyShipClasses=wp_62_kr_sverdlov_ai,wp_small_escorts,wp_large_escorts,wp_landing,wp_cargo,wp_62_kr_sverdlov_ai
 EventWin=LANDING_FORCE_win
 EventFail=LANDING_FORCE_fail

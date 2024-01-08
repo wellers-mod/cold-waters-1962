@@ -10,7 +10,7 @@ wp_62_ssgn_echo2=2
 wp_62_ssb_golf=24
 wp_62_ssbn_hotel=8
 
-wp_68_kr_sverdlov_ai=6
+wp_62_kr_sverdlov_ai=6
 wp_62_skr_riga_ai=27
 wp_68_mpk_poti_ai=31
 wp_62_em_kotlin_ai=27
@@ -47,8 +47,8 @@ wp_oldest_escorts=wp_68_mpk_poti_ai,wp_62_em_kotlin_ai
 wp_small_escorts=wp_62_skr_riga_ai,wp_68_mpk_poti_ai
 wp_medium_escorts=wp_62_skr_riga_ai,wp_62_em_kotlin_ai
 wp_large_escorts=wp_62_em_kotlin_ai,wp_62_bpk_kanin_ai
-wp_asuw_cruisers=wp_68_kr_sverdlov_ai
-wp_all_capital_ships=wp_68_kr_sverdlov_ai
+wp_asuw_cruisers=wp_62_kr_sverdlov_ai
+wp_all_capital_ships=wp_62_kr_sverdlov_ai
 
 wp_oiler=wp_vt_dubna,wp_vt_kazbek,wp_vt_boris_chilikin
 wp_surface_unrep=wp_vtr_andizhan_mod

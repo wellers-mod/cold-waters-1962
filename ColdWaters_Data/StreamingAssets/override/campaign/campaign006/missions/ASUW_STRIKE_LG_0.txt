@@ -20,6 +20,6 @@ RequiresWeapon=
 NumberOfEnemyUnits=1-4,1-2
 CombatBehaviour=OFFENSIVE,DEFENSIVE
 EnemyUnitMissionCritical=FALSE,TRUE
-EnemyShipClasses=wp_oldest_escorts,wp_68_kr_sverdlov_ai
+EnemyShipClasses=wp_oldest_escorts,wp_62_kr_sverdlov_ai
 EventWin=ASUW_STRIKE_LG_win
 EventFail=ASUW_STRIKE_LG_fail

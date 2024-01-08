@@ -35,7 +35,7 @@ MissionPosition=-87,65
 NumberOfHelicopters=0
 HelicopterType=wp_haze
 NumberOfAircraft=1
-AircraftType=wp_be-12_mail
+AircraftType=wp_be-12_mail_62
 
 //Aircraft Search Areas
 //Define a point and radius

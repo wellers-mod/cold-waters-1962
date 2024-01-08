@@ -26,8 +26,7 @@ MapDefaultYear=1962
 MapDefaultCoords=2030,1187
 PlayerCommand=COMSUBLANT|CINCLANTFLT
 PlayerVessels=usn_62_ss_guppy_2a,usn_62_ss_guppy_3,usn_62_ss_tang,usn_62_ss_barbel,usn_62_ssn_nautilus,usn_62_ssn_seawolf,usn_62_ssn_skate,usn_62_ssg_grayback,usn_62_ssgn_halibut,usn_62_ssn_skipjack,usn_61_ssn_thresher,usn_62_ssn_thresher
-HelicopterTypes=wp_haze
-AircraftTypes=wp_tu-142_bear,wp_il-38_may_68,wp_be-12_mail
+AircraftTypes=wp_be-12_mail_62
 
 //North Atlantic 1962 Soviet vs NATO
 LoadoutType=0

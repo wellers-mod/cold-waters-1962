@@ -20,6 +20,6 @@ RequiresWeapon=
 NumberOfEnemyUnits=1-1,1-1,1-1
 CombatBehaviour=DEFENSIVE,OFFENSIVE,OFFENSIVE
 EnemyUnitMissionCritical=TRUE,TRUE,TRUE
-EnemyShipClasses=wp_68_kr_sverdlov_ai,wp_large_escorts,wp_small_escorts
+EnemyShipClasses=wp_62_kr_sverdlov_ai,wp_large_escorts,wp_small_escorts
 EventWin=ASW_win
 EventFail=ASW_fail
