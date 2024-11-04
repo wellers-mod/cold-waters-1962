@@ -29,8 +29,9 @@ ResupplyTime=120
 [Model]
 AssetBundle=bundles/weapon_usn_regulus_ii.unity3d
 ModelFile=assets/models/weapon_usn_regulus_ii.fbx
-Material=weapons/assets/usn_tasm_mat
-MaterialTextures=assets/textures/weapon_usn_regulus_ii_tex.png
+-Material=weapons/assets/usn_tasm_mat
+Material=assets/models/materials/weapon_usn_regulus_ii.mat
+MaterialTextures=assets/textures/weapon_usn_regulus_ii_tex.png,assets/textures/weapon_usn_regulus_ii_spec.png
 MeshPosition=0,0,0
 MeshWeapon=weapon_usn_regulus_ii
 MeshMissileBooster=weapon_usn_regulus_ii_booster
