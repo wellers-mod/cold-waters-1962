@@ -16,6 +16,7 @@ wp_62_skr_riga_ai=27
 wp_68_mpk_poti_ai=31
 wp_62_em_kotlin_ai=27
 wp_62_bpk_kanin_ai=8
+wp_84_ptg_osa_ai=40
 wp_pb_don=3
 wp_pb_ugra=4
 wp_vt_boris_chilikin=6
@@ -46,7 +47,7 @@ wp_ssb=wp_62_ssb_golf
 wp_ssbn=wp_62_ssbn_hotel
 
 wp_oldest_escorts=wp_68_mpk_poti_ai,wp_62_em_kotlin_ai
-wp_small_escorts=wp_62_skr_riga_ai,wp_68_mpk_poti_ai
+wp_small_escorts=wp_62_skr_riga_ai,wp_68_mpk_poti_ai,wp_84_ptg_osa_ai
 wp_medium_escorts=wp_62_skr_riga_ai,wp_62_em_kotlin_ai
 wp_large_escorts=wp_62_em_kotlin_ai,wp_62_bpk_kanin_ai
 wp_asuw_cruisers=wp_62_kr_sverdlov_ai

@@ -1,0 +1,4 @@
+[Unit Reference]
+ShipClass=Osa II
+Description=Osa II-class Missile Boat
+History=The Osa class is probably the most numerous class of missile boats ever built, with over 400 vessels constructed between 1960 and 1973 for both the Soviet Navy and for export to allied countries.

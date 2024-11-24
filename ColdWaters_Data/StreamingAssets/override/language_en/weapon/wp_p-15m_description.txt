@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=P-15M
+WeaponDescriptiveName=4K40M P-15M "Termit" Anti-Ship Missile
+WeaponDescription=The P-15 Termit is an anti-ship missile developed by the Soviet Union's Raduga design bureau in the 1950s. Its GRAU designation was 4K40, its NATO reporting name was Styx or SS-N-2.

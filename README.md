@@ -17,6 +17,7 @@ Requires at least DotMod v0.4a-2.
 * Quebec-class SS
 * Whiskey-class "Twin Cylinder" SSG
 * Hotel II-class SSBN
+* Osa II-class PTG
 
 ## New Weapons
 #### United States
