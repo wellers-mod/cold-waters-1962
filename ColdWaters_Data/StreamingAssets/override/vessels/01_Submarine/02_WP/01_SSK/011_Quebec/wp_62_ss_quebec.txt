@@ -113,11 +113,11 @@ MeshRotation=0,0,0
 
 ModelFile=ships/wp_ss_whiskey/wp_ss_whiskey
 MeshScale=0.8,0.8,0.8
-MeshPosition=0.0211,-0.0216,-0.2810
+MeshPosition=0.0211,-0.0216,-0.280
 MeshProp=wp_ss_whiskey_prop_l
-MeshPosition=-0.0211,-0.0216,-0.2810
+MeshPosition=-0.0211,-0.0216,-0.280
 MeshProp=wp_ss_whiskey_prop_r
-MeshPosition=0,-0.0243,-0.3288
+MeshPosition=0,-0.0243,-0.328
 MeshProp=wp_ss_whiskey_prop_l
 MeshScale=1,1,1
 
